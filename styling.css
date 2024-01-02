@@ -1,0 +1,46 @@
+a:link
+{
+    color:black;
+    background-color: rosybrown;
+    text-decoration: none;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px;
+}
+
+
+a:visited
+{
+    color:black;
+    background-color: rosybrown;
+    text-decoration: none;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px;
+}
+
+
+a:hover
+{
+    color:aliceblue;
+    background-color:brown;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+
+a:active
+{
+    color:lightcoral;
+    background-color: thistle;
+    text-decoration: none;
+    padding: 15px;
+}
+
+
+h1
+{
+    color: darkslategray;
+}
+
